@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import utility.Log;
+import utilityfile.Log;
 
 public class LoginPageObject extends BaseClass {
 	private static WebElement element = null;

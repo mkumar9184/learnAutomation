@@ -10,11 +10,11 @@ import org.openqa.selenium.WebDriver;
 
 import pageObject.BaseClass;
 import pageObject.SearchDealerPageObject;
-import utility.Constant;
-import utility.ExcelUtils;
-import utility.HTMLTableBuilder;
-import utility.Log;
-import utility.ScreenShortslog;
+import utilityfile.Constant;
+import utilityfile.ExcelUtils;
+import utilityfile.HTMLTableBuilder;
+import utilityfile.Log;
+import utilityfile.ScreenShortslog;
 
 public class SearchDealerID {
 

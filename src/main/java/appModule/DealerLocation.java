@@ -10,10 +10,10 @@ import org.openqa.selenium.WebDriver;
 import pageObject.BaseClass;
 import pageObject.LocationPageObject;
 import pageObject.TopNavigstionPageObject;
-import utility.HTMLTableBuilder;
-import utility.Log;
-import utility.ScreenShortslog;
-import utility.Utils;
+import utilityfile.HTMLTableBuilder;
+import utilityfile.Log;
+import utilityfile.ScreenShortslog;
+import utilityfile.Utils;
 
 public class DealerLocation extends BaseClass {
 	

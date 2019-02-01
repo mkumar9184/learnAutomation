@@ -2,7 +2,7 @@ package com.test;
 
 import org.testng.annotations.Test;
 
-import utility.Log;
+import utilityfile.Log;
 
 import org.testng.annotations.BeforeMethod;
 
