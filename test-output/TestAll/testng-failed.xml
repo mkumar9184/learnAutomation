@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestAll]" parallel="tests" allow-return-values="true">
+  <test thread-count="2" name="DFA Testing(failed)" parallel="tests">
+    <classes>
+      <class name="testcase.NewTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- testcase.NewTest -->
+    </classes>
+  </test> <!-- DFA Testing(failed) -->
+</suite> <!-- Failed suite [TestAll] -->

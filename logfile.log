@@ -1,0 +1,798 @@
+
+2018-12-04 18:41:04,920 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:41:04,920 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:41:04,920 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-04 18:41:04,920 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:41:04,921 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:41:05,546 INFO  [Log] Excel sheet opened 
+2018-12-04 18:41:05,547 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-04 18:41:22,851 INFO  [Log] New driver instantiated 
+2018-12-04 18:41:22,876 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-04 18:41:30,521 INFO  [Log] Web application launched successfully 
+2018-12-04 18:41:50,735 INFO  [Log] Username text box is found on the Login Page 
+2018-12-04 18:41:50,846 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-04 18:41:50,846 INFO  [Log] Password:-casd3333 
+2018-12-04 18:41:50,871 INFO  [Log] Password text box is found on the Login Page 
+2018-12-04 18:41:52,567 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-04 18:42:02,609 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-04 18:42:03,775 INFO  [Log] Click action is performed on Submit button 
+2018-12-04 18:42:38,974 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-04 18:43:00,992 INFO  [Log] Click on Admin Tab 
+2018-12-04 18:43:00,992 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-04 18:43:01,108 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-04 18:43:01,188 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-04 18:43:01,581 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-04 18:43:12,406 INFO  [Log] Click action is performed on Change button 
+2018-12-04 18:43:13,073 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-04 18:43:14,073 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-04 18:43:14,117 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-04 18:43:49,725 ERROR [Log] 'Location Link' is not found on the DFA Home Page 
+2018-12-04 18:43:50,665 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='LocationMaintenance']/a"}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56428}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: f21f6905e565eb0233de3977df901e0a
+*** Element info: {Using=xpath, value=.//*[@id='LocationMaintenance']/a} 
+2018-12-04 18:43:50,766 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-04 18:43:50,766 INFO  [Log] X 
+2018-12-04 18:43:50,766 INFO  [Log] X 
+2018-12-04 18:43:50,766 INFO  [Log] X 
+2018-12-04 18:43:50,767 INFO  [Log] X 
+2018-12-04 18:46:27,055 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:46:27,055 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:46:27,055 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-04 18:46:27,055 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:46:27,055 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:46:27,684 INFO  [Log] Excel sheet opened 
+2018-12-04 18:46:27,684 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-04 18:46:32,130 INFO  [Log] New driver instantiated 
+2018-12-04 18:46:32,136 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-04 18:46:36,323 INFO  [Log] Web application launched successfully 
+2018-12-04 18:46:56,448 INFO  [Log] Username text box is found on the Login Page 
+2018-12-04 18:46:56,569 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-04 18:46:56,570 INFO  [Log] Password:-casd3333 
+2018-12-04 18:46:56,606 INFO  [Log] Password text box is found on the Login Page 
+2018-12-04 18:46:58,029 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-04 18:47:08,076 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-04 18:47:09,132 INFO  [Log] Click action is performed on Submit button 
+2018-12-04 18:47:39,547 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-04 18:47:58,466 INFO  [Log] Click on Admin Tab 
+2018-12-04 18:47:58,466 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-04 18:47:58,539 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-04 18:47:58,622 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-04 18:47:58,996 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-04 18:48:11,465 INFO  [Log] Click action is performed on Change button 
+2018-12-04 18:48:12,117 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-04 18:48:13,117 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-04 18:48:13,162 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-04 18:48:26,861 INFO  [Log] Successfully Click on Location link  
+2018-12-04 18:48:28,223 INFO  [Log] 'Create New Location' button is found on the DFA Home Page 
+2018-12-04 18:48:43,829 INFO  [Log] Successfully Click on Location link  
+2018-12-04 18:48:44,586 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-04 18:48:44,773 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-04 18:48:44,773 INFO  [Log] X 
+2018-12-04 18:48:44,773 INFO  [Log] X 
+2018-12-04 18:48:44,773 INFO  [Log] X 
+2018-12-04 18:48:44,773 INFO  [Log] X 
+2018-12-04 18:52:18,506 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:52:18,507 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:52:18,507 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-04 18:52:18,507 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:52:18,507 INFO  [Log] **************************************************************************************** 
+2018-12-04 18:52:19,166 INFO  [Log] Excel sheet opened 
+2018-12-04 18:52:19,167 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-04 18:52:24,837 INFO  [Log] New driver instantiated 
+2018-12-04 18:52:24,844 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-04 18:52:28,237 INFO  [Log] Web application launched successfully 
+2018-12-04 18:52:48,358 INFO  [Log] Username text box is found on the Login Page 
+2018-12-04 18:52:48,451 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-04 18:52:48,452 INFO  [Log] Password:-casd3333 
+2018-12-04 18:52:48,485 INFO  [Log] Password text box is found on the Login Page 
+2018-12-04 18:52:49,965 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-04 18:53:00,017 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-04 18:53:01,008 INFO  [Log] Click action is performed on Submit button 
+2018-12-04 18:53:31,451 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-04 18:53:50,387 INFO  [Log] Click on Admin Tab 
+2018-12-04 18:53:50,387 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-04 18:53:50,462 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-04 18:53:50,536 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-04 18:53:50,916 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-04 18:54:02,341 INFO  [Log] Click action is performed on Change button 
+2018-12-04 18:54:03,161 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-04 18:54:04,161 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-04 18:54:04,214 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-04 18:54:18,676 INFO  [Log] Successfully Click on Location link  
+2018-12-04 18:54:20,095 INFO  [Log] 'Create New Location' button is found on the DFA Home Page 
+2018-12-04 18:54:32,731 INFO  [Log] Successfully Click on Location link  
+2018-12-04 18:54:33,381 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-04 18:54:33,530 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-04 18:54:33,530 INFO  [Log] X 
+2018-12-04 18:54:33,530 INFO  [Log] X 
+2018-12-04 18:54:33,530 INFO  [Log] X 
+2018-12-04 18:54:33,530 INFO  [Log] X 
+2018-12-04 19:06:12,677 INFO  [Log] **************************************************************************************** 
+2018-12-04 19:06:12,677 INFO  [Log] **************************************************************************************** 
+2018-12-04 19:06:12,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-04 19:06:12,677 INFO  [Log] **************************************************************************************** 
+2018-12-04 19:06:12,677 INFO  [Log] **************************************************************************************** 
+2018-12-04 19:06:13,345 INFO  [Log] Excel sheet opened 
+2018-12-04 19:06:13,346 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-04 19:06:17,754 INFO  [Log] New driver instantiated 
+2018-12-04 19:06:17,760 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-04 19:06:21,414 INFO  [Log] Web application launched successfully 
+2018-12-04 19:06:41,528 INFO  [Log] Username text box is found on the Login Page 
+2018-12-04 19:06:41,625 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-04 19:06:41,626 INFO  [Log] Password:-casd3333 
+2018-12-04 19:06:41,665 INFO  [Log] Password text box is found on the Login Page 
+2018-12-04 19:06:42,814 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-04 19:06:52,861 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-04 19:06:53,891 INFO  [Log] Click action is performed on Submit button 
+2018-12-04 19:07:24,326 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-04 19:07:42,226 INFO  [Log] Click on Admin Tab 
+2018-12-04 19:07:42,226 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-04 19:07:42,291 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-04 19:07:42,374 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-04 19:07:42,749 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-04 19:07:57,087 INFO  [Log] Click action is performed on Change button 
+2018-12-04 19:07:57,755 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-04 19:07:58,755 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-04 19:07:58,802 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-04 19:08:10,676 INFO  [Log] Successfully Click on Location link  
+2018-12-04 19:08:12,138 INFO  [Log] 'Create New Location' button is found on the DFA Home Page 
+2018-12-04 19:08:27,351 INFO  [Log] Successfully Click on Location link  
+2018-12-04 19:08:27,973 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-04 19:08:28,470 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-04 19:08:28,470 INFO  [Log] X 
+2018-12-04 19:08:28,470 INFO  [Log] X 
+2018-12-04 19:08:28,470 INFO  [Log] X 
+2018-12-04 19:08:28,470 INFO  [Log] X 
+2018-12-05 12:09:38,425 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:09:38,425 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:09:38,425 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 12:09:38,426 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:09:38,426 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:09:39,181 INFO  [Log] Excel sheet opened 
+2018-12-05 12:09:39,181 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 12:09:53,850 INFO  [Log] New driver instantiated 
+2018-12-05 12:09:53,888 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 12:09:58,833 INFO  [Log] Web application launched successfully 
+2018-12-05 12:10:19,854 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 12:10:20,017 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 12:10:20,017 INFO  [Log] Password:-casd3333 
+2018-12-05 12:10:20,055 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 12:10:22,465 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 12:10:32,517 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 12:10:33,858 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 12:11:04,520 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 12:11:31,651 INFO  [Log] Click on Admin Tab 
+2018-12-05 12:11:31,651 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 12:11:31,865 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 12:11:32,065 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 12:11:32,835 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 12:11:46,391 INFO  [Log] Click action is performed on Change button 
+2018-12-05 12:11:47,529 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 12:14:02,580 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:14:02,581 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:14:02,581 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 12:14:02,581 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:14:02,581 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:14:03,318 INFO  [Log] Excel sheet opened 
+2018-12-05 12:14:03,319 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 12:14:07,916 INFO  [Log] New driver instantiated 
+2018-12-05 12:14:07,922 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 12:14:12,366 INFO  [Log] Web application launched successfully 
+2018-12-05 12:14:32,445 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 12:14:32,543 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 12:14:32,543 INFO  [Log] Password:-casd3333 
+2018-12-05 12:14:32,570 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 12:14:34,326 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 12:14:44,352 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 12:14:45,222 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 12:15:15,714 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 12:15:41,182 INFO  [Log] Click on Admin Tab 
+2018-12-05 12:15:41,182 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 12:15:41,252 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 12:15:41,340 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 12:15:41,727 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 12:15:55,545 INFO  [Log] Click action is performed on Change button 
+2018-12-05 12:15:56,469 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 12:15:57,469 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 12:15:57,607 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 12:16:15,388 INFO  [Log] Successfully Click on Location link  
+2018-12-05 12:16:16,953 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 12:16:38,240 INFO  [Log] Successfully Click on Location link  
+2018-12-05 12:16:39,035 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-05 12:16:39,840 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 12:16:39,840 INFO  [Log] X 
+2018-12-05 12:16:39,840 INFO  [Log] X 
+2018-12-05 12:16:39,840 INFO  [Log] X 
+2018-12-05 12:16:39,840 INFO  [Log] X 
+2018-12-05 12:23:53,283 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:23:53,284 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:23:53,284 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 12:23:53,284 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:23:53,284 INFO  [Log] **************************************************************************************** 
+2018-12-05 12:23:54,022 INFO  [Log] Excel sheet opened 
+2018-12-05 12:23:54,022 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 12:23:58,570 INFO  [Log] New driver instantiated 
+2018-12-05 12:23:58,575 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 12:24:02,422 INFO  [Log] Web application launched successfully 
+2018-12-05 12:24:22,521 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 12:24:22,635 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 12:24:22,636 INFO  [Log] Password:-casd3333 
+2018-12-05 12:24:22,688 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 12:24:23,644 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 12:24:33,687 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 12:24:34,674 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 12:25:05,115 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 12:25:20,807 INFO  [Log] Click on Admin Tab 
+2018-12-05 12:25:20,807 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 12:25:20,871 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 12:25:20,944 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 12:25:21,312 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 12:25:34,655 INFO  [Log] Click action is performed on Change button 
+2018-12-05 12:25:35,342 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 12:25:36,343 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 12:25:36,393 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 12:25:51,876 INFO  [Log] Successfully Click on Location link  
+2018-12-05 12:25:52,239 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 12:26:11,436 INFO  [Log] Successfully Click on Location link  
+2018-12-05 12:26:11,792 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 12:26:11,844 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 12:26:12,175 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 12:26:12,291 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 12:26:12,979 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-05 12:26:13,530 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 12:26:13,532 INFO  [Log] X 
+2018-12-05 12:26:13,532 INFO  [Log] X 
+2018-12-05 12:26:13,532 INFO  [Log] X 
+2018-12-05 12:26:13,532 INFO  [Log] X 
+2018-12-05 13:34:01,622 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:34:01,624 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:34:01,624 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 13:34:01,625 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:34:01,625 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:34:02,297 INFO  [Log] Excel sheet opened 
+2018-12-05 13:34:02,297 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 13:34:15,896 INFO  [Log] New driver instantiated 
+2018-12-05 13:34:15,957 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 13:34:20,227 INFO  [Log] Web application launched successfully 
+2018-12-05 13:34:41,302 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 13:34:43,418 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 13:34:43,418 INFO  [Log] Password:-casd3333 
+2018-12-05 13:34:43,445 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 13:34:44,453 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 13:34:54,478 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 13:34:55,330 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 13:35:26,448 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 13:35:44,529 INFO  [Log] Click on Admin Tab 
+2018-12-05 13:35:44,530 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 13:35:44,735 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 13:35:44,818 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 13:35:45,227 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 13:35:57,738 INFO  [Log] Click action is performed on Change button 
+2018-12-05 13:35:58,517 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 13:35:59,518 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 13:35:59,547 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 13:36:13,876 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:36:14,295 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 13:36:26,265 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:36:26,645 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 13:36:26,699 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 13:36:27,032 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 13:36:27,152 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 13:36:27,616 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 13:36:27,749 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 13:36:28,278 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58235}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 02316595ab35358db26c76074bbd55e9 
+2018-12-05 13:36:28,356 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 13:36:28,356 INFO  [Log] X 
+2018-12-05 13:36:28,356 INFO  [Log] X 
+2018-12-05 13:36:28,357 INFO  [Log] X 
+2018-12-05 13:36:28,357 INFO  [Log] X 
+2018-12-05 13:41:29,479 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:41:29,480 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:41:29,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 13:41:29,480 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:41:29,480 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:41:30,110 INFO  [Log] Excel sheet opened 
+2018-12-05 13:41:30,110 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 13:41:34,460 INFO  [Log] New driver instantiated 
+2018-12-05 13:41:34,465 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 13:41:38,473 INFO  [Log] Web application launched successfully 
+2018-12-05 13:42:04,542 ERROR [Log] UserName text box is not found on the Login Page 
+2018-12-05 13:42:08,750 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63383}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 058b89891a8a3f524bcd471e16bf50a3 
+2018-12-05 13:42:08,757 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 13:42:08,758 INFO  [Log] X 
+2018-12-05 13:42:08,758 INFO  [Log] X 
+2018-12-05 13:42:08,758 INFO  [Log] X 
+2018-12-05 13:42:08,758 INFO  [Log] X 
+2018-12-05 13:42:09,418 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:42:09,418 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:42:09,419 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 13:42:09,419 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:42:09,419 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:42:10,237 INFO  [Log] Excel sheet opened 
+2018-12-05 13:42:10,237 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 13:42:14,702 INFO  [Log] New driver instantiated 
+2018-12-05 13:42:14,712 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 13:42:18,174 INFO  [Log] Web application launched successfully 
+2018-12-05 13:42:38,426 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 13:42:38,712 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 13:42:38,713 INFO  [Log] Password:-casd3333 
+2018-12-05 13:42:38,787 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 13:42:40,137 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 13:42:50,198 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 13:42:50,741 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 13:43:21,253 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 13:43:46,028 INFO  [Log] Click on Admin Tab 
+2018-12-05 13:43:46,028 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 13:43:46,118 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 13:43:46,216 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 13:43:46,662 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 13:43:58,959 INFO  [Log] Click action is performed on Change button 
+2018-12-05 13:43:59,736 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 13:44:00,736 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 13:44:00,797 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 13:44:15,391 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:44:15,856 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 13:44:32,833 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:44:33,274 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 13:44:33,357 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 13:44:33,794 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 13:44:33,949 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 13:44:34,404 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 13:44:34,480 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 13:44:34,741 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63431}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: aa1d7022e7cf6a4ab36c8c7e9ac233bb 
+2018-12-05 13:44:34,748 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 13:44:34,748 INFO  [Log] X 
+2018-12-05 13:44:34,748 INFO  [Log] X 
+2018-12-05 13:44:34,749 INFO  [Log] X 
+2018-12-05 13:44:34,749 INFO  [Log] X 
+2018-12-05 13:46:05,796 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:46:05,797 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:46:05,797 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 13:46:05,797 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:46:05,797 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:46:06,560 INFO  [Log] Excel sheet opened 
+2018-12-05 13:46:06,560 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 13:46:11,159 INFO  [Log] New driver instantiated 
+2018-12-05 13:46:11,171 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 13:46:16,136 INFO  [Log] Web application launched successfully 
+2018-12-05 13:46:37,573 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 13:46:37,727 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 13:46:37,728 INFO  [Log] Password:-casd3333 
+2018-12-05 13:46:37,764 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 13:46:38,186 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 13:46:48,252 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 13:46:48,785 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 13:47:19,363 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 13:47:40,568 INFO  [Log] Click on Admin Tab 
+2018-12-05 13:47:40,569 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 13:47:40,652 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 13:47:40,773 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 13:47:41,213 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 13:48:00,100 INFO  [Log] Click action is performed on Change button 
+2018-12-05 13:48:00,920 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 13:48:01,921 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 13:48:01,983 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 13:48:19,904 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:48:20,365 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 13:48:35,463 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:48:36,023 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 13:48:36,103 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 13:48:36,665 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 13:48:36,818 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 13:48:37,194 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 13:48:37,263 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 13:48:37,537 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63508}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 7445778769cfee115c34d74914f5217d 
+2018-12-05 13:48:37,544 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 13:48:37,544 INFO  [Log] X 
+2018-12-05 13:48:37,545 INFO  [Log] X 
+2018-12-05 13:48:37,545 INFO  [Log] X 
+2018-12-05 13:48:37,545 INFO  [Log] X 
+2018-12-05 13:51:26,089 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:51:26,090 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:51:26,090 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 13:51:26,090 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:51:26,090 INFO  [Log] **************************************************************************************** 
+2018-12-05 13:51:26,810 INFO  [Log] Excel sheet opened 
+2018-12-05 13:51:26,810 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 13:51:31,486 INFO  [Log] New driver instantiated 
+2018-12-05 13:51:31,497 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 13:51:35,818 INFO  [Log] Web application launched successfully 
+2018-12-05 13:51:55,990 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 13:51:56,123 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 13:51:56,123 INFO  [Log] Password:-casd3333 
+2018-12-05 13:51:56,155 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 13:51:57,949 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 13:52:08,019 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 13:52:09,280 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 13:52:39,707 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 13:52:58,565 INFO  [Log] Click on Admin Tab 
+2018-12-05 13:52:58,566 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 13:52:58,720 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 13:52:58,920 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 13:52:59,418 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 13:53:13,035 INFO  [Log] Click action is performed on Change button 
+2018-12-05 13:53:13,950 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 13:53:14,950 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 13:53:15,017 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 13:53:29,905 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:53:30,489 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 13:53:43,945 INFO  [Log] Successfully Click on Location link  
+2018-12-05 13:53:44,381 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 13:53:44,475 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 13:53:44,902 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 13:53:45,081 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 13:53:45,503 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 13:53:45,571 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 13:53:45,834 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63588}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 6988314f2b30f51dc82e1cd79abef855 
+2018-12-05 13:53:45,840 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 13:53:45,840 INFO  [Log] X 
+2018-12-05 13:53:45,840 INFO  [Log] X 
+2018-12-05 13:53:45,840 INFO  [Log] X 
+2018-12-05 13:53:45,840 INFO  [Log] X 
+2018-12-05 14:04:25,485 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:04:25,485 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:04:25,485 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 14:04:25,485 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:04:25,485 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:04:26,188 INFO  [Log] Excel sheet opened 
+2018-12-05 14:04:26,189 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 14:04:30,824 INFO  [Log] New driver instantiated 
+2018-12-05 14:04:30,829 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 14:04:34,990 INFO  [Log] Web application launched successfully 
+2018-12-05 14:04:55,142 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 14:04:55,289 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 14:04:55,289 INFO  [Log] Password:-casd3333 
+2018-12-05 14:04:55,322 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 14:04:56,449 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 14:05:06,508 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 14:05:06,973 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 14:05:37,484 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 14:05:58,914 INFO  [Log] Click on Admin Tab 
+2018-12-05 14:05:58,914 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 14:05:59,061 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 14:05:59,245 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 14:05:59,848 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 14:06:15,575 INFO  [Log] Click action is performed on Change button 
+2018-12-05 14:06:16,357 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 14:06:17,357 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 14:06:17,433 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 14:06:31,110 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:06:31,567 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 14:06:44,367 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:06:44,834 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 14:06:44,916 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 14:06:45,345 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 14:06:45,479 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 14:06:45,955 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 14:06:46,048 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 14:06:46,306 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63684}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 7bc3cb2ceb339e684b6586175a95ecfb 
+2018-12-05 14:06:46,312 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 14:06:46,312 INFO  [Log] X 
+2018-12-05 14:06:46,312 INFO  [Log] X 
+2018-12-05 14:06:46,312 INFO  [Log] X 
+2018-12-05 14:06:46,312 INFO  [Log] X 
+2018-12-05 14:08:49,619 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:08:49,620 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:08:49,620 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 14:08:49,620 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:08:49,620 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:08:50,466 INFO  [Log] Excel sheet opened 
+2018-12-05 14:08:50,466 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 14:08:55,495 INFO  [Log] New driver instantiated 
+2018-12-05 14:08:55,509 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 14:08:59,894 INFO  [Log] Web application launched successfully 
+2018-12-05 14:09:20,093 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 14:09:20,312 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 14:09:20,313 INFO  [Log] Password:-casd3333 
+2018-12-05 14:09:20,354 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 14:09:21,663 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 14:09:31,739 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 14:09:32,203 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 14:10:02,798 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 14:10:22,630 INFO  [Log] Click on Admin Tab 
+2018-12-05 14:10:22,631 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 14:10:22,736 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 14:10:22,857 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 14:10:23,432 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 14:10:37,708 INFO  [Log] Click action is performed on Change button 
+2018-12-05 14:10:38,625 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 14:10:39,626 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 14:10:39,682 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 14:10:54,104 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:10:54,599 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 14:11:08,612 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:11:09,093 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 14:11:09,170 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 14:11:09,580 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 14:11:09,751 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 14:11:10,206 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 14:11:10,316 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 14:11:10,625 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63757}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 6d6848eb0811a8fe669f56ca0db13759 
+2018-12-05 14:11:10,645 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 14:11:10,646 INFO  [Log] X 
+2018-12-05 14:11:10,646 INFO  [Log] X 
+2018-12-05 14:11:10,646 INFO  [Log] X 
+2018-12-05 14:11:10,646 INFO  [Log] X 
+2018-12-05 14:12:58,890 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:12:58,890 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:12:58,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 14:12:58,890 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:12:58,891 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:12:59,716 INFO  [Log] Excel sheet opened 
+2018-12-05 14:12:59,716 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 14:13:04,522 INFO  [Log] New driver instantiated 
+2018-12-05 14:13:04,529 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 14:13:08,318 INFO  [Log] Web application launched successfully 
+2018-12-05 14:13:28,519 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 14:13:28,733 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 14:13:28,733 INFO  [Log] Password:-casd3333 
+2018-12-05 14:13:28,765 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 14:13:29,138 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 14:13:39,197 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 14:13:44,852 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 14:14:15,561 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 14:14:32,212 INFO  [Log] Click on Admin Tab 
+2018-12-05 14:14:32,212 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 14:14:32,296 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 14:14:32,419 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 14:14:32,887 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 14:14:45,744 INFO  [Log] Click action is performed on Change button 
+2018-12-05 14:14:46,723 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 14:14:47,723 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 14:14:47,794 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 14:14:57,927 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:14:58,523 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 14:15:15,078 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:15:15,521 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 14:15:15,591 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 14:15:16,015 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 14:15:16,206 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 14:15:16,686 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 14:15:16,779 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 14:15:17,080 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63827}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: 5dc5968045d0e6cd4e41500c95884295 
+2018-12-05 14:15:17,092 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 14:15:17,094 INFO  [Log] X 
+2018-12-05 14:15:17,094 INFO  [Log] X 
+2018-12-05 14:15:17,094 INFO  [Log] X 
+2018-12-05 14:15:17,094 INFO  [Log] X 
+2018-12-05 14:17:17,835 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:17:17,835 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:17:17,836 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 14:17:17,836 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:17:17,836 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:17:18,680 INFO  [Log] Excel sheet opened 
+2018-12-05 14:17:18,680 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 14:17:23,488 INFO  [Log] New driver instantiated 
+2018-12-05 14:17:23,495 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 14:17:27,008 INFO  [Log] Web application launched successfully 
+2018-12-05 14:17:47,198 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 14:17:47,341 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 14:17:47,341 INFO  [Log] Password:-casd3333 
+2018-12-05 14:17:47,382 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 14:17:48,645 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 14:17:58,709 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 14:17:59,179 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 14:18:29,696 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 14:18:51,003 INFO  [Log] Click on Admin Tab 
+2018-12-05 14:18:51,003 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 14:18:51,087 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 14:18:51,177 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 14:18:51,850 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 14:19:06,107 INFO  [Log] Click action is performed on Change button 
+2018-12-05 14:19:07,080 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 14:19:08,081 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 14:19:08,157 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 14:19:24,258 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:19:24,938 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 14:19:40,869 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:19:41,327 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 14:19:41,416 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 14:19:41,979 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 14:19:42,139 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 14:19:42,550 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 14:19:42,623 INFO  [Log] Successfully click on 'Add location' button  
+2018-12-05 14:19:42,994 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : unexpected alert open: {Alert text : Are you sure you want to Add new Location}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63897}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}
+Session ID: c88eca20447fe4902d47b058e0ab3416 
+2018-12-05 14:19:43,006 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 14:19:43,006 INFO  [Log] X 
+2018-12-05 14:19:43,006 INFO  [Log] X 
+2018-12-05 14:19:43,006 INFO  [Log] X 
+2018-12-05 14:19:43,006 INFO  [Log] X 
+2018-12-05 14:20:49,657 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:20:49,658 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:20:49,658 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 14:20:49,658 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:20:49,658 INFO  [Log] **************************************************************************************** 
+2018-12-05 14:20:50,385 INFO  [Log] Excel sheet opened 
+2018-12-05 14:20:50,385 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 14:20:54,911 INFO  [Log] New driver instantiated 
+2018-12-05 14:20:54,916 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 14:20:58,727 INFO  [Log] Web application launched successfully 
+2018-12-05 14:21:18,918 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 14:21:19,147 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 14:21:19,148 INFO  [Log] Password:-casd3333 
+2018-12-05 14:21:19,206 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 14:21:21,246 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 14:21:31,308 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 14:21:32,600 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 14:22:03,185 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 14:22:22,574 INFO  [Log] Click on Admin Tab 
+2018-12-05 14:22:22,574 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 14:22:22,717 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 14:22:22,905 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 14:22:23,384 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 14:22:38,489 INFO  [Log] Click action is performed on Change button 
+2018-12-05 14:22:39,271 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 14:22:40,271 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 14:22:40,332 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 14:22:57,952 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:22:58,404 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 14:23:16,543 INFO  [Log] Successfully Click on Location link  
+2018-12-05 14:23:16,986 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 14:23:17,066 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 14:23:17,541 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 14:23:17,714 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 14:23:18,141 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 14:23:18,264 INFO  [Log] Successfully click on popup' button  
+2018-12-05 14:23:34,104 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-05 14:23:34,339 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 14:23:34,339 INFO  [Log] X 
+2018-12-05 14:23:34,339 INFO  [Log] X 
+2018-12-05 14:23:34,339 INFO  [Log] X 
+2018-12-05 14:23:34,339 INFO  [Log] X 
+2018-12-05 17:05:48,541 INFO  [Log] **************************************************************************************** 
+2018-12-05 17:05:48,542 INFO  [Log] **************************************************************************************** 
+2018-12-05 17:05:48,543 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-05 17:05:48,543 INFO  [Log] **************************************************************************************** 
+2018-12-05 17:05:48,543 INFO  [Log] **************************************************************************************** 
+2018-12-05 17:05:49,385 INFO  [Log] Excel sheet opened 
+2018-12-05 17:05:49,385 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-05 17:06:03,263 INFO  [Log] New driver instantiated 
+2018-12-05 17:06:03,293 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-05 17:06:15,850 INFO  [Log] Web application launched successfully 
+2018-12-05 17:06:36,785 INFO  [Log] Username text box is found on the Login Page 
+2018-12-05 17:06:37,232 INFO  [Log] mk06534 is entered in UserName text box 
+2018-12-05 17:06:37,232 INFO  [Log] Password:-casd3333 
+2018-12-05 17:06:37,267 INFO  [Log] Password text box is found on the Login Page 
+2018-12-05 17:06:39,438 INFO  [Log] casd3333 is entered in Password text box 
+2018-12-05 17:06:49,497 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2018-12-05 17:06:51,039 INFO  [Log] Click action is performed on Submit button 
+2018-12-05 17:07:21,840 INFO  [Log]  'Admin Tab' is found on the DFA Home Page 
+2018-12-05 17:07:40,440 INFO  [Log] Click on Admin Tab 
+2018-12-05 17:07:40,440 INFO  [Log] '//////////////////Search  operation started//////// 
+2018-12-05 17:07:40,568 INFO  [Log] Search text box is found on the DFA Home Page 
+2018-12-05 17:07:40,713 INFO  [Log] 065503 is entered in UserName text box 
+2018-12-05 17:07:41,323 INFO  [Log] 'Change' button is found on the DFA Home Page 
+2018-12-05 17:07:54,526 INFO  [Log] Click action is performed on Change button 
+2018-12-05 17:07:55,423 INFO  [Log] '//////////////////Search operation End////////// 
+2018-12-05 17:07:56,424 INFO  [Log] '//////////////////Location operation started///////// 
+2018-12-05 17:07:56,501 INFO  [Log]  'Location Link' is found on the DFA Home Page 
+2018-12-05 17:08:13,202 INFO  [Log] Successfully Click on Location link  
+2018-12-05 17:08:13,725 INFO  [Log] 'Create New Location' button is found on the 'Location' Page 
+2018-12-05 17:08:27,258 INFO  [Log] Successfully Click on Location link  
+2018-12-05 17:08:27,673 INFO  [Log] 'Location Code' text box  is found on the 'Add Location' page 
+2018-12-05 17:08:27,732 INFO  [Log] Successfully Enter location code in 'Location code' text box  
+2018-12-05 17:08:28,318 INFO  [Log] 'Location Description' text box  is found on the 'Add Location' page 
+2018-12-05 17:08:28,490 INFO  [Log] Successfully Enter location description in 'Location description' text box  
+2018-12-05 17:08:28,884 INFO  [Log] 'Add Location' button  is found on the 'Add Location' page 
+2018-12-05 17:08:28,983 INFO  [Log] Are you sure you want to Add new Location 
+2018-12-05 17:08:28,997 INFO  [Log] Successfully click on popup' button  
+2018-12-05 17:08:52,818 INFO  [Log] '//////////////////Location operation End//////////// 
+2018-12-05 17:08:53,294 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-12-05 17:08:53,295 INFO  [Log] X 
+2018-12-05 17:08:53,295 INFO  [Log] X 
+2018-12-05 17:08:53,295 INFO  [Log] X 
+2018-12-05 17:08:53,295 INFO  [Log] X 
+2019-01-02 16:30:04,989 INFO  [Log] **************************************************************************************** 
+2019-01-02 16:30:04,990 INFO  [Log] **************************************************************************************** 
+2019-01-02 16:30:04,990 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 NewTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-01-02 16:30:04,990 INFO  [Log] **************************************************************************************** 
+2019-01-02 16:30:04,990 INFO  [Log] **************************************************************************************** 
+2019-01-02 16:30:06,341 INFO  [Log] Excel sheet opened 
+2019-01-02 16:30:06,341 INFO  [Log] Total number of Row used return as < 2 >. 
+2019-01-02 16:30:27,723 INFO  [Log] New driver instantiated 
+2019-01-02 16:30:27,734 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2019-01-02 16:30:34,726 INFO  [Log] Web application launched successfully 
+2019-01-02 16:30:55,303 INFO  [Log] Username text box is found on the Login Page 
+2019-01-02 16:30:55,850 INFO  [Log] mk06534 is entered in UserName text box 
+2019-01-02 16:30:55,850 INFO  [Log] Password:-casd3333 
+2019-01-02 16:30:55,872 INFO  [Log] Password text box is found on the Login Page 
+2019-01-02 16:30:56,963 INFO  [Log] casd3333 is entered in Password text box 
+2019-01-02 16:31:07,003 INFO  [Log] 'Sigin Buton'  is found on the Login Page 
+2019-01-02 16:31:07,644 INFO  [Log] Click action is performed on Submit button 
+2019-01-02 16:31:59,178 ERROR [Log] 'Admin Tab' is not found on the DFA Home Page 
+2019-01-02 16:32:00,396 ERROR [Log] no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='headerTabGreyAdmin']/a"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'YP1002465LT', ip: '10.8.100.131', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MANOJ~1.KUM\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61344}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 83510f283c7825dcd9b00247aedb6048
+*** Element info: {Using=xpath, value=.//*[@id='headerTabGreyAdmin']/a} 
+2019-01-02 16:32:00,468 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-01-02 16:32:00,468 INFO  [Log] X 
+2019-01-02 16:32:00,468 INFO  [Log] X 
+2019-01-02 16:32:00,468 INFO  [Log] X 
+2019-01-02 16:32:00,468 INFO  [Log] X 
