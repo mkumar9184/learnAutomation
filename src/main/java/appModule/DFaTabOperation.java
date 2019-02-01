@@ -11,6 +11,5 @@ public class DFaTabOperation {
 		TopNavigstionPageObject.label_AdminTab().click();
 		 Log.info("Click on Admin Tab" );
 
-		 Log.info("Click on Admin Tab In GitHub" );
-		}
+				}
 }
